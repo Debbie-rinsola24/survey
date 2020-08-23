@@ -1,0 +1,20 @@
+body{
+    height: 100%;
+    width: 100%;
+   
+}
+.firstball{
+    padding: 50px 80px 80px 80px;
+   
+}
+.second1{
+   padding: 50px 50px 50px 50px;
+    border-radius: 50px;
+}
+.second2{
+    padding: 50px 50px 50px 50px;
+    border-radius: 50px;  
+}
+.nav-link{
+    font-family: rosario;
+}
